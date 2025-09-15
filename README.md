@@ -16,7 +16,7 @@ s3-static-website/
 
 ---
 
-## Steps Performed
+## Steps Performed (Lab Session)
 
 1. **Configure AWS CLI** (using IAM user `awsS3user`)
 ```bash
@@ -66,6 +66,9 @@ pause
 ---
 
 ## Live Website
+
+> Note: This project was implemented in a temporary AWS lab environment (AWS re/Start). 
+> The live deployment shown here was created during the lab and may not be accessible now.
 
 [S3 Website Endpoint URL](http://dion-s3-website-hosting.s3-website-us-west-2.amazonaws.com/)
 

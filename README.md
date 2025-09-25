@@ -74,15 +74,28 @@ pause
 
 ---
 
-## Screenshots
+## Screenshots  
 
-- **S3 Console**: `screenshots/s3-console.jpg`
-- **Block Public Access**: `screenshots/block-public-access.jpg`
-- **Object Ownership (ACLs enabled)**: `screenshots/object-ownership.jpg`
-- **Static Website Hosting**: `screenshots/static-website-hosting.jpg`
-- **Website Live**: `screenshots/website-live.jpg`
-- **AWS CLI Config** (optional): `screenshots/aws-cli-config.jpg`
-- **Upload Process** (optional): `screenshots/aws-s3-upload.jpg`
+- **S3 Console**  
+  ![S3 Console](screenshots/s3-console.jpg)  
+
+- **Block Public Access**  
+  ![Block Public Access](screenshots/block-public-access.jpg)  
+
+- **Object Ownership (ACLs enabled)**  
+  ![Object Ownership](screenshots/object-ownership.jpg)  
+
+- **Static Website Hosting**  
+  ![Static Website Hosting](screenshots/static-website-hosting.jpg)  
+
+- **Website Live**  
+  ![Website Live](screenshots/website-live.jpg)  
+
+- **AWS CLI Config** (optional)  
+  ![AWS CLI Config](screenshots/aws-cli-config.jpg)  
+
+- **Upload Process** (optional)  
+  ![Upload Process](screenshots/aws-s3-upload.jpg)  
 
 ---
 
